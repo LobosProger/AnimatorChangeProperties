@@ -1,5 +1,5 @@
 # AnimatorChangeProperties
-This script, **AnimatorChangeProperties**, is created to overcome the limitation of modifying component properties controlled by the Animator. When properties are controlled by the Animator, this script compensates for the inability to directly modify them.
+Script created in 2020 during developing Quadroom game. This script, **AnimatorChangeProperties**, is created to overcome the limitation of modifying component properties controlled by the Animator. When properties are controlled by the Animator, this script compensates for the inability to directly modify them. 
 
 ### How it works:
 
